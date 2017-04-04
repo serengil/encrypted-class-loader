@@ -1,5 +1,5 @@
 # encrypted-class-loader
-This project runs encrypted java classes. 
+This project aims to protect java codes with encrypted class loader approach.
 
 Usage
 =====
