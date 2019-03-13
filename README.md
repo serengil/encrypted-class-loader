@@ -1,4 +1,4 @@
-# encrypted-class-loader
+# Encrypted Class Loader
 This project aims to protect java codes with encrypted class loader approach.
 
 Usage
@@ -11,10 +11,4 @@ You might modify the code to store encrypted class in database. This project aim
 
 License
 =======
-Copyright 2016 Sefik Ilkin Serengil
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
+Chefboost is licensed under the MIT License - see [LICENSE](https://github.com/serengil/encrypted-class-loader/blob/master/LICENSE) for more details.
