@@ -11,4 +11,4 @@ You might modify the code to store encrypted class in database. This project aim
 
 License
 =======
-Chefboost is licensed under the MIT License - see [LICENSE](https://github.com/serengil/encrypted-class-loader/blob/master/LICENSE) for more details.
+This repository is licensed under the MIT License - see [LICENSE](https://github.com/serengil/encrypted-class-loader/blob/master/LICENSE) for more details.
